@@ -23,10 +23,10 @@ const PokeSearchResult = ({ selectedPokemon }: PokeSearchResultProps) => {
             src={sprites?.animated || sprites?.normal}
             alt='pokemon'
           />
-          <p>Name:{cap(name)}</p>
+          <p>Name: {cap(name)}</p>
           <p>Id: {id}</p>
-          <p>Weight :{weight}</p>
-          <p>Height :{height}</p>
+          <p>Weight: {weight} kg</p>
+          <p>Height: {height}00 cm</p>
           <p>BaseExp: {base_experience}</p>
         </div>
       ) : (
