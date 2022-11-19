@@ -2,7 +2,7 @@
 
 > I made a Pokedex using a tutorial, using React.
 
-![Portfolio](https://github.com/dhawal-pandya/Pokedex/blob/master/pokedex.png)
+![PokeDex](https://github.com/dhawal-pandya/Pokedex/blob/master/pokedex.png)
 
 ## Built With
 
